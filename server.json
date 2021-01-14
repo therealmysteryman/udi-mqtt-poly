@@ -1,6 +1,6 @@
 {
-    "name": "MQTTSensor",
-    "docs": "https://github.com/exking/udi-mqtt-poly",
+    "name": "MQTTSensorRaw",
+    "docs": "https://github.com/therealmysteryman/udi-mqtt-poly",
     "type": "python3",
     "executable": "mqtt-poly.py",
     "install": "install.sh",
