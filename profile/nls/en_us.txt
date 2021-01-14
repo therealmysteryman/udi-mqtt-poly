@@ -7,7 +7,7 @@ ST-CTRL-ST-NAME = NodeServer Online
 # switch
 ND-MQSR-NAME = MQTT Switch
 ND-MQSR-ICON = MotionSensor
-ST-MQSRV-ST-NAME = Raw Value
+ST-RAW-ST-NAME = Raw Value
 
 ND-MQSW-NAME = MQTT Switch
 ND-MQSW-ICON = GenericRsp
