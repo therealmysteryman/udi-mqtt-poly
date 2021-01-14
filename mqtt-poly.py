@@ -12,7 +12,7 @@ LOGGER = polyinterface.LOGGER
 class Controller(polyinterface.Controller):
     def __init__(self, polyglot):
         super().__init__(polyglot)
-        self.name = 'MQTT Controller'
+        self.name = 'MQTT Controller Sensor Raw'
         self.address = 'mqctrl'
         self.primary = self.address
         self.mqtt_server = 'localhost'
