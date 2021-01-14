@@ -28,6 +28,19 @@
             </accepts>
         </cmds>
     </nodeDef>
+    <nodeDef id="MQSR" nls="RAW">
+        <editors />
+        <sts>
+            <st id="ST" editor="ANALOG" />
+        </sts>
+        <cmds>
+            <sends>
+            </sends>
+            <accepts>
+                <cmd id="QUERY" />
+            </accepts>
+        </cmds>
+    </nodeDef>
     <nodeDef id="MQSENS" nls="SENSOR">
         <editors />
         <sts>
